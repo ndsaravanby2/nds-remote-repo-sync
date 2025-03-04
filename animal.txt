@@ -1,1 +1,2 @@
-dog-local-repo-line1
+dog-remote-repo-line1
+dog-remote-repo-line2
