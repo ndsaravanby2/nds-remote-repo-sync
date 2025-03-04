@@ -1,2 +1,4 @@
 dog-local-repo-line1
 dog-local-repo-line2
+dog-remote-repo-github-line1
+dog-remote-repo-github-line2
